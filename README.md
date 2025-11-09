@@ -16,6 +16,7 @@ Programa simples em C que realiza operações matemáticas básicas diretamente 
 gcc main.c -o calculadora
 ./calculadora
 
+Entrada e saida de dados
 === Calculadora ===
 1 - Adição
 2 - Subtração
